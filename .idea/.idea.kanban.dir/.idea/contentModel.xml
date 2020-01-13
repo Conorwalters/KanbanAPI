@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\320064312\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\320064312\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\320064312\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\320064312\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\320064312\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\320064312\RiderProjects\kanban" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="Backend" t="Include">
+        <e p="kanban" t="Include">
+          <e p="ApiDbContext.cs" t="Include" />
+        </e>
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="IkanbanBoardService.cs" t="Include" />
+        <e p="KanbanBoardController.cs" t="Include" />
+      </e>
+      <e p="Database" t="Include">
+        <e p="schema.sql" t="Include" />
+      </e>
+      <e p="docker-compose.yml" t="Include" />
+      <e p="extensions" t="Include">
+        <e p="ModelStateExtensions.cs" t="Include" />
+      </e>
+      <e p="kanban.csproj" t="IncludeRecursive" />
+      <e p="Mapping" t="Include">
+        <e p="ModelToResourceProfile.cs" t="Include" />
+        <e p="ResourceToModelProfile.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="kanbanBoard.cs" t="Include" />
+        <e p="ticket.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="kanban.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="BaseRepository.cs" t="Include" />
+        <e p="IKanbanBoardRespository.cs" t="Include" />
+        <e p="KanbanRepository.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="kanbanBoardResource.cs" t="Include" />
+        <e p="SaveKanbanBoardResource.cs" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Communication" t="Include">
+          <e p="BaseResponse.cs" t="Include" />
+          <e p="SaveKanbanBoardResponse.cs" t="Include" />
+        </e>
+        <e p="KanbanBoardService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="UnitTests" t="Include">
+        <e p="KanbanBoardTests.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
